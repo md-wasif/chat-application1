@@ -1,5 +1,5 @@
 # Anonymous RealTime Chat Application
-## This app is built with React JS and Socket.io
+## Used web sockets and Socket.io to implement group chat functionality
 
 In the project directory, you can run:
 
